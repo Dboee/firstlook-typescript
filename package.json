@@ -1,0 +1,23 @@
+{
+  "name": "firstlook-typescript",
+  "version": "1.0.0",
+  "description": "Makes a network request to fetch some JSON and print the results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dboee/firstlook-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dboee/firstlook-typescript/issues"
+  },
+  "homepage": "https://github.com/Dboee/firstlook-typescript#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
